@@ -1,0 +1,39 @@
+{
+    "data": {
+        "id": 1,
+        "fullName": "Ravi Lakhtariya",
+        "pictureUrl": "tom",
+        "email": "lakhtariya78@gmail.com",
+        "about": "Ios Developer, Found:gunatitsolution.com",
+        "friends": [
+                    {
+                    "name": "Huckleberry Finn",
+                    "pictureUrl": "finn"
+                    },
+                    {
+                    "name": "Becky Thatcher",
+                    "pictureUrl": "becky"
+                    },
+                    {
+                    "name": "Celeste Holm",
+                    "pictureUrl": "holm"
+                    }
+                    ],
+        "profileAttributes": [
+                              {
+                              "key": "Date of birth",
+                              "value": "December 30, 007"
+                              },
+                              {
+                              "key": "Gender",
+                              "value": "male"
+                              },
+                              {
+                              "key": "Height",
+                              "value": "180"
+                              }
+                              ]
+    },
+    "error": 0,
+    "message": "Success"
+}
